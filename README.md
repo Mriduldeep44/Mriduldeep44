@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mriduldeep44
-- 👀 I’m interested in in competitive coding and android development
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in Data Science and Data Analytics
+- 🌱 I’m currently learning GenAI
 - 📫 How to reach me 
 contact me through my mail- eathan.mridul44@gmail.com
 any help from your side is really appreciated as i am a beginner. so please give your valuable suggestions.
