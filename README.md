@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Mriduldeep44
+# Hey there! 👋 I'm Mridul Deep
 
 **👀 Exploring the world of Data Science & Data Analytics.**  
 I'm passionate about making sense of data and using it to unlock insights that drive smarter decisions. Whether it's crunching numbers or building models, I'm always looking for ways to push the boundaries of what's possible.
